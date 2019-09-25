@@ -6,6 +6,14 @@
 // @author       David Harvey
 // @match        http://*.poopy.life/*
 // @grant        none
+// @license https://creativecommons.org/licenses/by-sa/4.0/
+// @homepage https://github.com/davext/Clean-Poopy-life/
+// @twitterURL https://twitter.com/dave_xt
+// @contactURL https://twitter.com/dave_xt
+// @supportURL https://github.com/davext/Clean-Poopy-life/issues
+// @contributionURL https://twitter.com/dave_xt
+// @updateURL https://raw.githubusercontent.com/davext/Clean-Poopy-life/master/CleanPoopyLife.js
+// @downloadURL https://raw.githubusercontent.com/davext/Clean-Poopy-life/master/CleanPoopyLife.js
 // ==/UserScript==
 
 (function() {
